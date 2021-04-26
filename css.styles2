@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>This is my second HTML page in Laurea Foundations of Web Development course.</h1>
+ 
+<head> 
+<style>
+<body> {
+{backround-color:black;}
+p {
+color: white;
+{
+h1{
+font-size: 20px;
+}
+p{
+font-size: 12px;
+}
+p{
+color: green;
+}
+div {
+:dotted;
+width: 2px;
+width: 100px;
+height: 100px;
+}
+.class
+
+<meta http-equiv=“Content-Type” content=“text/html; charset=iso-8859-1”>
+<title>Portfolio</title>
+<link href=“styles.css” rel=“stylesheet” type=“text/css”>
+</head>
+<div>
+<p> 
+Nero Forte is a very aggressive song from Slipknot
+</p>
+</div>
+<ol>
+<li> Herää aamulla</li>
+<li>mene nukkumaan yöksi</li>
+</ol>
+<ul>
+<li>samsung galaxy</li>
+<li>Iphone 12</li>
+</ul>
+
+</body>
+</html> 
